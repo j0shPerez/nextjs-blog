@@ -9,20 +9,20 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p><br>10 Things That Require Zero Talent</br>
+        <p>10 Things That Require Zero Talent</p>
 <ul>
-<br>1. Being On Time</br>
-<br>2. Making An Effort</br>
-<br>3. Being High Energy</br>
-<br>4. Having A Positive Attitude</br>
-<br>5. Being Passionate</br>
-<br>6. Using Good Body Language</br>
-<br>7. Being Coachable</br>
-<br>8. Doing A Little Extra</br>
-<br>9. Being Prepared</br>
-<br>10. Having A Strong Work Ethic</br></p>
+<li>1. Being On Time</li>
+<li>2. Making An Effort</li>
+<li>3. Being High Energy</li>
+<li>4. Having A Positive Attitude</li>
+<li>5. Being Passionate</li>
+<li>6. Using Good Body Language</li>
+<li>7. Being Coachable</li>
+<li>8. Doing A Little Extra</li>
+<li>9. Being Prepared</li>
+<li>10. Having A Strong Work Ethic</li>
 
-    </ul>
+    </ul> </p>
   
       </section>
     </Layout>
