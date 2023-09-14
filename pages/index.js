@@ -9,7 +9,7 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p><br>10 Things That Require Zero Talent</br>
+        <p><br>10 Things That Require 1Zero Talent</br>
 <ul>
 <br>1. Being On Time</br>
 <br>2. Making An Effort</br>
