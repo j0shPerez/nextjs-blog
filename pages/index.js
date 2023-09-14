@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
         <p><br>10 Things That Require Zero Talent</br>
-
+<ul>
 <br>1. Being On Time</br>
 <br>2. Making An Effort</br>
 <br>3. Being High Energy</br>
@@ -21,6 +21,8 @@ export default function Home() {
 <br>8. Doing A Little Extra</br>
 <br>9. Being Prepared</br>
 <br>10. Having A Strong Work Ethic</br></p>
+
+    </ul>
     <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
